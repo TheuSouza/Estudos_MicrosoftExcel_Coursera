@@ -1,2 +1,2 @@
-# MicrosoftPowerBI
-Arquivos dos estudos de Microsoft Power BI
+# Microsoft Excel Coursera
+Arquivos dos estudos de Microsoft Excel Coursera
